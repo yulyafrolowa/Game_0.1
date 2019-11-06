@@ -1,0 +1,69 @@
+fileFormatVersion: 2
+guid: 1eb108d092184e8438e85d5615a07e96
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/Mapa1_start_001
+    100002: _MapPrfab/Mapa1_start_001/Grid
+    100004: _MapPrfab/Mapa1_start_001/Grid/Cround_colider
+    100006: _MapPrfab/Mapa1_start_001/Grid/Cround_colider/Object_1
+    100008: _MapPrfab/Mapa1_start_001/Grid/Cround_colider/Object_1/ConvexPolygon
+    100010: _MapPrfab/Mapa1_start_001/Grid/Cround_colider/Object_1/ConvexPolygon (1)
+    100012: _MapPrfab/Mapa1_start_001/Grid/Cround_colider/Object_1/ConvexPolygon (2)
+    100014: _MapPrfab/Mapa1_start_001/Grid/Tile Layer 1
+    400000: _MapPrfab/Mapa1_start_001/Transform
+    400002: _MapPrfab/Mapa1_start_001/Grid/Transform
+    400004: _MapPrfab/Mapa1_start_001/Grid/Cround_colider/Transform
+    400006: _MapPrfab/Mapa1_start_001/Grid/Cround_colider/Object_1/Transform
+    400008: _MapPrfab/Mapa1_start_001/Grid/Cround_colider/Object_1/ConvexPolygon/Transform
+    400010: _MapPrfab/Mapa1_start_001/Grid/Cround_colider/Object_1/ConvexPolygon (1)/Transform
+    400012: _MapPrfab/Mapa1_start_001/Grid/Cround_colider/Object_1/ConvexPolygon (2)/Transform
+    400014: _MapPrfab/Mapa1_start_001/Grid/Tile Layer 1/Transform
+    5000000: _MapPrfab/Mapa1_start_001/Grid/Cround_colider/Object_1/Rigidbody2D
+    6000000: _MapPrfab/Mapa1_start_001/Grid/Cround_colider/Object_1/ConvexPolygon/PolygonCollider2D
+    6000002: _MapPrfab/Mapa1_start_001/Grid/Cround_colider/Object_1/ConvexPolygon
+      (1)/PolygonCollider2D
+    6000004: _MapPrfab/Mapa1_start_001/Grid/Cround_colider/Object_1/ConvexPolygon
+      (2)/PolygonCollider2D
+    6600000: _MapPrfab/Mapa1_start_001/Grid/Cround_colider/Object_1/CompositeCollider2D
+    11400000: _MapPrfab/Mapa1_start_001/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _MapPrfab/Mapa1_start_001/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400004: _MapPrfab/Mapa1_start_001/Grid/Cround_colider/MonoBehaviour-SuperTiled2Unity.SuperObjectLayer
+    11400006: _MapPrfab/Mapa1_start_001/Grid/Cround_colider/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400008: _MapPrfab/Mapa1_start_001/Grid/Cround_colider/Object_1/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400010: _MapPrfab/Mapa1_start_001/Grid/Cround_colider/Object_1/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400012: _MapPrfab/Mapa1_start_001/Grid/Cround_colider/Object_1/ConvexPolygon/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400014: _MapPrfab/Mapa1_start_001/Grid/Cround_colider/Object_1/ConvexPolygon
+      (1)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400016: _MapPrfab/Mapa1_start_001/Grid/Cround_colider/Object_1/ConvexPolygon
+      (2)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400018: _MapPrfab/Mapa1_start_001/Grid/Tile Layer 1/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400020: _MapPrfab/Mapa1_start_001/Grid/Tile Layer 1/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400022: _superAsset
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/Mapa1_start_001/Grid/Grid
+    3664157343022684176: _MapPrfab/Mapa1_start_001/Grid/Tile Layer 1/TilemapRenderer
+    8195094279510102542: _MapPrfab/Mapa1_start_001/Grid/Tile Layer 1/Tilemap
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  missingFiles: []
+  errors:
+  - Errors detected in tileset 'tiles_spritesheet.tsx'. Check the tileset inspector
+    for more details. Your map may be broken until these are fixed.
+  - Could not find tile 158. Make sure the tilesets were successfully imported.
+  - Could not find tile 157. Make sure the tilesets were successfully imported.
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  missingTags: []
+  importerVersion: 18
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  tilesAsObjects: 0
+  sortingMode: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []
