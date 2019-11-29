@@ -5,6 +5,7 @@ using UnityEngine;
 public class HardCoding : MonoBehaviour
 {
     public int liczbaCalkowita;
+    private int integerVariable;
     public float x;
     public bool trueVariable;
     public bool falseVariable;
@@ -102,6 +103,12 @@ public class HardCoding : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        
+    }
+    public void Zadanie1()
+    {
+        //Zadanie 1
+        integerVariable = 5;
         
     }
 }
